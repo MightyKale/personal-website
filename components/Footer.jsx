@@ -6,7 +6,7 @@ const Footer = () => {
         <p>© 2023 Amy Chu All Rights Reserved.</p>
       </div>
       <div className="font-[Ubuntu] flex flex-row gap-4 text-[24px] justify-center">
-        <a href="www.linkedin.com/in/amy-chu-xiaoxiao" target='_blank'><BsLinkedin /></a>
+        <a href="https://www.linkedin.com/in/amy-chu-xiaoxiao" target='_blank'><BsLinkedin /></a>
         <a href="https://github.com/MightyKale" target='_blank'><BsGithub /></a>
         
       </div>
